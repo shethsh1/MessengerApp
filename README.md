@@ -1,6 +1,6 @@
 # Information
 
-Originally this was a take home assignment to create a messenger application. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and added many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
+Originally this was a take home assignment from a company that asked to create a messenger application. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and added many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
 
 ## List of working features and features I intend to add in the future
 

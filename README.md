@@ -1,3 +1,27 @@
+# Information
+
+Originally this was a take home assignment to create a messenger application. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and added many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
+
+## List of working features and features I intend to add in the future
+
+- [x] Login / Signup for an account
+- [x] logout 
+- [x] Online/Offline status is shown next to a user 
+- [x] send messages to users
+- [ ] send photos to other users 
+- [x] Messages and conversation saved per account 
+- [x] Timestamps of messages shown 
+- [x] Search for users using the search bar
+- [x] Notification for unread messages
+- [x] Read receipts
+- [ ] Know when another user is typing
+- [ ] Upload your own avatar 
+- [ ] Group chat
+- [ ] Add friends    
+
+
+
+
 # Messenger
 
 A one-to-one realtime chat app.

@@ -1,6 +1,6 @@
 # Information
 
-Originally this was a take home assignment from a company to create a chat app. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and added many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
+Originally this was a take home assignment from a company I was applying to - to create a simple 1-1 chat. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and added many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
 
 ## List of working features and features I intend to add in the future
 
@@ -18,6 +18,9 @@ Originally this was a take home assignment from a company to create a chat app. 
 - [ ] Upload your own avatar 
 - [ ] Group chat
 - [ ] Add friends    
+
+
+![Alt Text](https://media.giphy.com/media/IWvbtEcKQ6EOUX42q0/giphy.gif)
 
 
 

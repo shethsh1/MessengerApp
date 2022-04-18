@@ -1,6 +1,6 @@
 # Information
 
-Originally this was a take home assignment from a company I was applying to - to create a simple 1-1 chat. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and added many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
+Originally this was a take home assignment from a company I was applying to - to do PR request for a simple 1-1 chat. I finished it but then decided to add onto it as a personal project to practice. I swapped all the states over to redux toolkit for better state management and will be adding many more additional functionality. I deployed the app here: https://messenger786.herokuapp.com/
 
 ## List of working features and features I intend to add in the future
 
